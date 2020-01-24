@@ -1,0 +1,8 @@
+{
+  "env": {
+    "node": true
+  },
+  "extends": "airbnb-base",
+  "plugins": ["promise"],
+  "ignorePatterns" : ["node_modules/", "src/request.js"]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "ssl-certificate-info",
+  "version": "1.0.0",
+  "description": "Get a ssl certificate information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint 'src/**/*.js' --fix"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "csv-parser": "^2.3.2",
+    "csv-writer": "^1.6.0",
+    "fast-csv": "^4.0.2",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-promise": "^4.2.1"
+  }
+}
