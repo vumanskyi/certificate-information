@@ -13,7 +13,7 @@
     "chalk": "^3.0.0",
     "csv-parser": "^2.3.2",
     "csv-writer": "^1.6.0",
-    "fast-csv": "^4.0.2",
+    "fast-csv": "^4.3.6",
     "yargs": "^15.1.0"
   },
   "devDependencies": {
